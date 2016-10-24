@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  num_words: 1
+  num_chars: 1
+  num_char_no_whitespace: 1
+  num_sentences: 1
+  num_paragraphs: 1
+  avg_words: 9.99
+  avg_sentences: 1
+
+two:
+  num_words: 1
+  num_chars: 1
+  num_char_no_whitespace: 1
+  num_sentences: 1
+  num_paragraphs: 1
+  avg_words: 9.99
+  avg_sentences: 1
